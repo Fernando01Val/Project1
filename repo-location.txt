@@ -1,0 +1,4 @@
+https://github.com/Fernando01Val/Project1
+git add repo-location.txt
+git commit -m C:\Users\Fernando\Documents\GitHub\Project1
+git push
